@@ -1,0 +1,27 @@
+# .github/workflows/update-sensor-data.yml
+
+name: Update Sensor Data
+
+on:
+  repository_dispatch:
+    types: [update-sensor-data]
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update sensor data file
+        env:
+          SENSOR_DATA: ${{ toJson(github.event.client_payload) }}
+        run: |
+          echo "$SENSOR_DATA" | jq '.' > sensor_data.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add sensor_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sensor data"; git push)
