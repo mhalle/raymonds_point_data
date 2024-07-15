@@ -5,7 +5,8 @@ name: Update Sensor Data
 on:
   repository_dispatch:
     types: [update-sensor-data]
-
+  workflow_dispatch:
+  
 jobs:
   update-data:
     runs-on: ubuntu-latest
