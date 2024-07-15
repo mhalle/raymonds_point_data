@@ -1,5 +1,8 @@
 name: Write Sensor Data to File
 
+permissions:
+  contents: write  # Permissions for reading repository contents
+  actions: write  # Permissions for running GitHub Actions
 on:
   repository_dispatch:
     types: [update-sensor-data]
