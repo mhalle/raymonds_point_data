@@ -31,10 +31,10 @@
     "feels_like": 96,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "uv_index": 10.47,
-    "wind_direction": 320,
-    "wind_direction_average": 320,
-    "wind_gust": "1.90",
-    "wind_speed_average": 1.12
+    "uv_index": 10.4,
+    "wind_direction": 317,
+    "wind_direction_average": 317,
+    "wind_gust": "1.97",
+    "wind_speed_average": 1.48
   }
 }
