@@ -11,9 +11,9 @@
   },
   "weather": {
     "attribution": "Weather data delivered by WeatherFlow/Tempest REST Api",
-    "dew_point": 70,
+    "dew_point": 72,
     "friendly_name": "Raymonds Point",
-    "humidity": 50,
+    "humidity": 54,
     "precipitation_unit": "in",
     "pressure": 29.53,
     "pressure_unit": "inHg",
@@ -22,19 +22,19 @@
     "temperature_unit": "°F",
     "uv_index": 10,
     "visibility_unit": "mi",
-    "wind_bearing": 319,
+    "wind_bearing": 317,
     "wind_gust_speed": 2.24,
-    "wind_speed": 2.24,
+    "wind_speed": 0,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 94.5,
+    "feels_like": 98,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "uv_index": 10.13,
-    "wind_direction": 317,
-    "wind_direction_average": 315,
-    "wind_gust": "1.97",
-    "wind_speed_average": 1.28
+    "uv_index": 9.62,
+    "wind_direction": 310,
+    "wind_direction_average": 319,
+    "wind_gust": "2.19",
+    "wind_speed_average": 1.16
   }
 }
