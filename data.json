@@ -22,9 +22,9 @@
     "temperature_unit": "°F",
     "uv_index": 0,
     "visibility_unit": "mi",
-    "wind_bearing": 220,
-    "wind_gust_speed": 4.47,
-    "wind_speed": 4.47,
+    "wind_bearing": 256,
+    "wind_gust_speed": 2.24,
+    "wind_speed": 2.24,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
@@ -32,9 +32,9 @@
     "lightning_average_distance": 0,
     "precipitation_type": "none",
     "uv_index": 0,
-    "wind_direction": 219,
-    "wind_direction_average": 205,
-    "wind_gust": "4.74",
-    "wind_speed_average": 3.44
+    "wind_direction": 227,
+    "wind_direction_average": 207,
+    "wind_gust": "4.03",
+    "wind_speed_average": 2.59
   }
 }
