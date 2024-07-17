@@ -15,7 +15,7 @@
     "friendly_name": "Raymonds Point",
     "humidity": 85,
     "precipitation_unit": "in",
-    "pressure": 29.62,
+    "pressure": 29.63,
     "pressure_unit": "inHg",
     "supported_features": 3,
     "temperature": 75,
@@ -28,14 +28,14 @@
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 75.2,
+    "feels_like": 75.3,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "temperature": 75.2,
-    "uv_index": 1.04,
+    "temperature": 75.3,
+    "uv_index": 1.53,
     "wind_direction": 0,
-    "wind_direction_average": 0,
-    "wind_gust": "0.00",
-    "wind_speed_average": 0
+    "wind_direction_average": 147,
+    "wind_gust": "0.81",
+    "wind_speed_average": 0.16
   }
 }
