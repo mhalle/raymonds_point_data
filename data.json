@@ -2,7 +2,7 @@
   "dock": {
     "temperature": 84.9,
     "temperature_unit": "°F",
-    "water_level": 0.69,
+    "water_level": 0.7,
     "water_level_unit": "ft"
   },
   "sun": {
@@ -15,26 +15,26 @@
     "friendly_name": "Raymonds Point",
     "humidity": 84,
     "precipitation_unit": "in",
-    "pressure": 29.49,
+    "pressure": 29.5,
     "pressure_unit": "inHg",
     "supported_features": 3,
     "temperature": 79,
     "temperature_unit": "°F",
     "uv_index": 0,
     "visibility_unit": "mi",
-    "wind_bearing": 215,
+    "wind_bearing": 217,
     "wind_gust_speed": 2.24,
     "wind_speed": 2.24,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 78.3,
+    "feels_like": 78.2,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
     "uv_index": 0,
-    "wind_direction": 196,
-    "wind_direction_average": 205,
-    "wind_gust": "2.13",
-    "wind_speed_average": 1.66
+    "wind_direction": 333,
+    "wind_direction_average": 221,
+    "wind_gust": "1.99",
+    "wind_speed_average": 1.23
   }
 }
