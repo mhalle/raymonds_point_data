@@ -1,6 +1,6 @@
 {
   "dock": {
-    "temperature": 82.2,
+    "temperature": 81.7,
     "temperature_unit": "°F",
     "water_level": 0.7,
     "water_level_unit": "ft"
@@ -15,7 +15,7 @@
     "friendly_name": "Raymonds Point",
     "humidity": 100,
     "precipitation_unit": "in",
-    "pressure": 29.52,
+    "pressure": 29.53,
     "pressure_unit": "inHg",
     "supported_features": 3,
     "temperature": 72,
