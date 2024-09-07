@@ -1,6 +1,6 @@
 {
   "dock": {
-    "temperature": 73.8,
+    "temperature": 72.9,
     "temperature_unit": "°F",
     "water_level": 0.36,
     "water_level_unit": "ft"
@@ -9,12 +9,12 @@
     "next_sunrise": "06:20",
     "next_sunset": "19:08"
   },
-  "time": "2024-09-07T17:15:00.094544-04:00",
+  "time": "2024-09-07T17:30:00.094626-04:00",
   "weather": {
     "attribution": "Weather data delivered by WeatherFlow/Tempest REST Api",
-    "dew_point": 61,
+    "dew_point": 59,
     "friendly_name": "Raymonds Point",
-    "humidity": 74,
+    "humidity": 73,
     "precipitation_unit": "in",
     "pressure": 29.5,
     "pressure_unit": "inHg",
@@ -23,7 +23,7 @@
     "temperature_unit": "°F",
     "uv_index": 1,
     "visibility_unit": "mi",
-    "wind_bearing": 251,
+    "wind_bearing": 256,
     "wind_gust_speed": 2.24,
     "wind_speed": 0,
     "wind_speed_unit": "mph"
@@ -33,10 +33,10 @@
     "lightning_average_distance": 0,
     "precipitation_type": "none",
     "temperature": 68.8,
-    "uv_index": 0.82,
-    "wind_direction": 222,
-    "wind_direction_average": 230,
-    "wind_gust": "4.34",
-    "wind_speed_average": 2.24
+    "uv_index": 1.05,
+    "wind_direction": 217,
+    "wind_direction_average": 242,
+    "wind_gust": "2.13",
+    "wind_speed_average": 1.23
   }
 }
