@@ -1,6 +1,6 @@
 {
   "dock": {
-    "temperature": 84.7,
+    "temperature": 83.8,
     "temperature_unit": "°F",
     "water_level": 0.49,
     "water_level_unit": "ft"
@@ -9,17 +9,17 @@
     "next_sunrise": "06:27",
     "next_sunset": "18:56"
   },
-  "time": "2024-09-14T17:30:00.094669-04:00",
+  "time": "2024-09-14T17:45:00.095387-04:00",
   "weather": "null",
   "weather_station": {
-    "feels_like": 78.9,
+    "feels_like": 78.2,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "temperature": 78.9,
-    "uv_index": 0.42,
-    "wind_direction": 318,
-    "wind_direction_average": 322,
-    "wind_gust": "3.71",
-    "wind_speed_average": 2.62
+    "temperature": 78.2,
+    "uv_index": 0.35,
+    "wind_direction": 316,
+    "wind_direction_average": 49,
+    "wind_gust": "3.83",
+    "wind_speed_average": 2.73
   }
 }
