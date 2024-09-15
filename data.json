@@ -9,17 +9,17 @@
     "next_sunrise": "06:27",
     "next_sunset": "18:54"
   },
-  "time": "2024-09-14T21:30:00.095323-04:00",
+  "time": "2024-09-14T21:45:00.094904-04:00",
   "weather": "null",
   "weather_station": {
-    "feels_like": 65.3,
+    "feels_like": 64.2,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "temperature": 65.3,
+    "temperature": 64.2,
     "uv_index": 0,
-    "wind_direction": 45,
-    "wind_direction_average": 37,
-    "wind_gust": "2.35",
-    "wind_speed_average": 1.72
+    "wind_direction": 51,
+    "wind_direction_average": 54,
+    "wind_gust": "1.21",
+    "wind_speed_average": 1.05
   }
 }
