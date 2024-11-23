@@ -9,7 +9,7 @@
     "next_sunrise": "06:46",
     "next_sunset": "16:19"
   },
-  "time": "2024-11-23T02:30:00.095265-05:00",
+  "time": "2024-11-23T02:45:00.094512-05:00",
   "weather": {
     "attribution": "Weather data delivered by WeatherFlow/Tempest REST Api",
     "dew_point": 37,
@@ -23,20 +23,20 @@
     "temperature_unit": "°F",
     "uv_index": 0,
     "visibility_unit": "mi",
-    "wind_bearing": 35,
+    "wind_bearing": 58,
     "wind_gust_speed": 2.24,
     "wind_speed": 2.24,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 38.6,
+    "feels_like": 38.8,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "temperature": 38.6,
+    "temperature": 38.8,
     "uv_index": 0,
-    "wind_direction": 48,
-    "wind_direction_average": 10,
-    "wind_gust": "2.44",
-    "wind_speed_average": 1.25
+    "wind_direction": 52,
+    "wind_direction_average": 17,
+    "wind_gust": "1.77",
+    "wind_speed_average": 1.03
   }
 }
