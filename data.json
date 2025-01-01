@@ -9,34 +9,34 @@
     "next_sunrise": "07:13",
     "next_sunset": "16:26"
   },
-  "time": "2025-01-01T02:30:00.086826-05:00",
+  "time": "2025-01-01T02:45:00.086765-05:00",
   "weather": {
     "attribution": "Weather data delivered by WeatherFlow/Tempest REST Api",
     "dew_point": 41,
     "friendly_name": "Raymonds Point",
     "humidity": 97,
     "precipitation_unit": "in",
-    "pressure": 29.29,
+    "pressure": 29.27,
     "pressure_unit": "inHg",
     "supported_features": 3,
     "temperature": 43,
     "temperature_unit": "°F",
     "uv_index": 0,
     "visibility_unit": "mi",
-    "wind_bearing": 278,
-    "wind_gust_speed": 2.24,
-    "wind_speed": 0,
+    "wind_bearing": 115,
+    "wind_gust_speed": 4.47,
+    "wind_speed": 2.24,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 39.4,
+    "feels_like": 42.6,
     "lightning_average_distance": 0,
     "precipitation_type": "rain",
-    "temperature": 42,
+    "temperature": 42.6,
     "uv_index": 0,
-    "wind_direction": 32,
-    "wind_direction_average": 34,
-    "wind_gust": "4.85",
-    "wind_speed_average": 4.29
+    "wind_direction": 31,
+    "wind_direction_average": 31,
+    "wind_gust": "3.06",
+    "wind_speed_average": 2.46
   }
 }
