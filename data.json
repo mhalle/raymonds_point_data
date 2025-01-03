@@ -9,7 +9,7 @@
     "next_sunrise": "07:13",
     "next_sunset": "16:29"
   },
-  "time": "2025-01-03T16:30:00.086369-05:00",
+  "time": "2025-01-03T16:45:00.086669-05:00",
   "weather": {
     "attribution": "Weather data delivered by WeatherFlow/Tempest REST Api",
     "dew_point": 18,
@@ -23,20 +23,20 @@
     "temperature_unit": "°F",
     "uv_index": 0,
     "visibility_unit": "mi",
-    "wind_bearing": 237,
+    "wind_bearing": 251,
     "wind_gust_speed": 4.47,
     "wind_speed": 2.24,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 33.3,
+    "feels_like": 32.9,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "temperature": 33.3,
-    "uv_index": 0.01,
-    "wind_direction": 266,
-    "wind_direction_average": 271,
-    "wind_gust": "2.64",
-    "wind_speed_average": 2.06
+    "temperature": 32.9,
+    "uv_index": 0,
+    "wind_direction": 279,
+    "wind_direction_average": 284,
+    "wind_gust": "3.85",
+    "wind_speed_average": 2.37
   }
 }
