@@ -1,6 +1,6 @@
 {
   "dock": {
-    "temperature": 41.5,
+    "temperature": 40.5,
     "temperature_unit": "°F",
     "water_level": 0,
     "water_level_unit": "ft"
@@ -9,7 +9,7 @@
     "next_sunrise": "07:09",
     "next_sunset": "16:45"
   },
-  "time": "2025-01-18T22:45:00.086570-05:00",
+  "time": "2025-01-18T23:00:00.086541-05:00",
   "weather": {
     "attribution": "Weather data delivered by WeatherFlow/Tempest REST Api",
     "dew_point": 43,
@@ -23,20 +23,20 @@
     "temperature_unit": "°F",
     "uv_index": 0,
     "visibility_unit": "mi",
-    "wind_bearing": 235,
+    "wind_bearing": 46,
     "wind_gust_speed": 0,
     "wind_speed": 0,
     "wind_speed_unit": "mph"
   },
   "weather_station": {
-    "feels_like": 43,
+    "feels_like": 42.7,
     "lightning_average_distance": 0,
     "precipitation_type": "none",
-    "temperature": 43,
+    "temperature": 42.7,
     "uv_index": 0,
-    "wind_direction": 143,
-    "wind_direction_average": 114,
-    "wind_gust": "0.89",
-    "wind_speed_average": 0.56
+    "wind_direction": 1,
+    "wind_direction_average": 355,
+    "wind_gust": "1.16",
+    "wind_speed_average": 1.01
   }
 }
