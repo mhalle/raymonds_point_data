@@ -9,17 +9,17 @@
     "next_sunrise": "05:19",
     "next_sunset": "20:06"
   },
-  "time": "2025-05-22T16:15:00.086258-04:00",
+  "time": "2025-05-22T16:30:00.087078-04:00",
   "weather": "null",
   "weather_station": {
-    "feels_like": 43.4,
+    "feels_like": 41.6,
     "lightning_average_distance": 0,
     "precipitation_type": "rain",
     "temperature": 45.7,
-    "uv_index": 0.5,
-    "wind_direction": 11,
-    "wind_direction_average": 26,
-    "wind_gust": "7.00",
-    "wind_speed_average": 4.61
+    "uv_index": 0.44,
+    "wind_direction": 100,
+    "wind_direction_average": 10,
+    "wind_gust": "9.84",
+    "wind_speed_average": 7.72
   }
 }
